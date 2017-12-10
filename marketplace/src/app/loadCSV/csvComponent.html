@@ -1,0 +1,16 @@
+
+<div *ngIf="dropdownList">
+<select2 [data]="dropdownList"
+[options]="options"
+[width]="500"
+[value]="value"
+(valueChanged)="changed($event)"
+></select2>
+</div>
+
+
+
+
+<div *ngIf="dropdownList">
+<select2 [data]="dropdownList"></select2>
+</div>

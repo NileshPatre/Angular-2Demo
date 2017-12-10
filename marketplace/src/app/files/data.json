@@ -1,0 +1,10 @@
+[
+    {"code":"a1","name":"Nilesh","address":"Mumbai","number":"553456","gender":"M"},
+    {"code":"a2","name":"Rohit","address":"Mumbai-S","number":"443456","gender":"M"},
+    {"code":"a3","name":"Ramesh","address":"Mumbai-F","number":"00093456","gender":"M"},
+    {"code":"a4","name":"Sushma","address":"Mumbai-T","number":"1233336","gender":"F"},
+    {"code":"b1","name":"Rekha","address":"Mumbai-M","number":"12347886","gender":"F"},
+    {"code":"b2","name":"Jaya","address":"Mumbai-Q","number":"166456","gender":"F"},
+    {"code":"b3","name":"Prabha","address":"Mumbai-TT","number":"234234456","gender":"F"},
+    {"code":"b4","name":"Suresh","address":"Mumbai-H","number":"1564656","gender":"M"}
+]
